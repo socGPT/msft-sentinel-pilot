@@ -1,3 +1,4 @@
 - https://learn.microsoft.com/en-us/azure/sentinel/deploy-overview
 - !!! AWESOME https://learn.microsoft.com/en-us/security/operations/overview
 - !!! https://learn.microsoft.com/en-us/azure/sentinel/whats-new  ...scroll down, full docu!
+- Security Copilot https://www.managedsentinel.com/wp-content/uploads/2024/05/Microsoft-Copilot-for-Security-Design-v.1.4.pdf
