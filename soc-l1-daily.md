@@ -33,3 +33,4 @@ mindmap
 
 - https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-checklist
 - https://learn.microsoft.com/en-us/azure/sentinel/whats-new
+- https://danielchronlund.com/wp-content/uploads/2022/09/microsoft-sentinel-soc-activities.pdf
