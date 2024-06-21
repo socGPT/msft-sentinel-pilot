@@ -1,0 +1,3 @@
+- https://learn.microsoft.com/en-us/azure/sentinel/deploy-overview
+- !!! AWESOME https://learn.microsoft.com/en-us/security/operations/overview
+- !!! https://learn.microsoft.com/en-us/azure/sentinel/whats-new  ...scroll down, full docu!
