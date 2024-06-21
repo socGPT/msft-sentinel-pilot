@@ -49,7 +49,7 @@
 
 1. **Prüfung der Vorraussetzungen:**
    - https://learn.microsoft.com/en-us/azure/sentinel/sap/prerequisites-for-deploying-sap-continuous-threat-monitoring#sap-prerequisites
-3. xx
+3. Nutzung Kickstart Script: https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-kickstart
 
 ---
 
