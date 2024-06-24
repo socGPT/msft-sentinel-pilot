@@ -13,7 +13,7 @@ Microsoft Sentinel Best Practices, inklusive Architecture Blueprints, Deployment
 
 ---
 
-> [!IMPORTANT]  
+> [!TIP]  
 > KEIN ANSPRUCH AUF VOLLSTÄNDIGKEIT! \
 > Think, contribute, copy & innovate!
 
