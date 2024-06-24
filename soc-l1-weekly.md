@@ -5,7 +5,7 @@
 
 # SENTINEL (SOC) Operator
 
-## Weekly Checks
+## WEEKLY Checks
 
 ```mermaid
 mindmap
