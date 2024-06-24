@@ -9,19 +9,18 @@
 
 ```mermaid
 mindmap
-  root((defender-xdr))
-    Docs
-      Read GH Connector<br/>reference
-    Activate
-      1.Microsoft Defender XDR
-        Activates whole XDR<br/>suite
-      2.Connect Events
-         Carefully evaluate per<br />connector
-         Depends on Sentinel Rules<br />you wanna use
-      3.Validate Defender Settings
-         Forward Incidents via Stream API
-    Blades
-      security.microsoft.com
+  root((daily-checks))
+    Content Hub
+      1.Kontrolle auf Updates
+        Release Notes beachten
+    Data Connector
+      1.Kontrolle der connected Quellen
+          Nutzung Workbook "Workspace Usage Report"
+            Prüfung Nutzen & Kosten (Tab: Cost Analysis)
+            Prüfung "Latency" pro Quelle
+            Prüfung Tab "Regular Checks"
+    SOC optimization
+      Prüfung der Vorschläge <br/>In-Progress oder Completed
     Tools
       xx
       yy
