@@ -9,7 +9,7 @@
 
 ```mermaid
 mindmap
-  root((daily-checks))
+  root((weekly-checks))
     Health
       Nutzung Workbook<br />"Analytics Health & Audit"
         Kontrolle "Overview"
