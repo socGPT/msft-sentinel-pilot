@@ -11,7 +11,8 @@
 mindmap
   root((monthly-checks))
     Sentinel Updates
-      Review Tech-Blog Updates
+      Review "Community" in Sentinel
+      Review MSFT Tech-Blog
     Watchlist Optimierung
       Überarbeitung Logic Apps
     Health
