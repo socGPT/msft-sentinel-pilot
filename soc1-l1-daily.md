@@ -14,6 +14,8 @@ mindmap
       Nutzung Workbook<br />"Analytics Health & Audit"
         Kontrolle "Overview"
         Kontrolle "Health"
+    Kostenkontrolle
+      Nutzung Workbook <br />"Microsoft Sentinel Cost"
     Incidents
       Nutzung "Security Operations Efficiency" <br />Workbook
     Data Connector
