@@ -3,7 +3,7 @@
 
 ---
 
-# SENTINEL (SOC) Operator
+# SENTINEL (SOC) Operator (Level 1)
 
 ## DAILY Checks
 
