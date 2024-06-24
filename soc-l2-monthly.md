@@ -12,6 +12,8 @@ mindmap
   root((monthly-checks))
     Sentinel Updates
       Review Tech-Blog Updates
+    Watchlist Optimierung
+      Überarbeitung Logic Apps
     Health
       Nutzung Workbook<br />"Analytics Health & Audit"
         Kontrolle "Overview"
