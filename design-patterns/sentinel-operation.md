@@ -8,6 +8,8 @@
 > Ist eine professionelle Grundlage für alle die ein seriöses SOC etablieren wollen. \
 > Egal ob als Security Service Provider, oder als Unternehmen! \
 
+- Siehe, https://github.com/Azure/Azure-Sentinel/wiki/SOC-Process-Framework
+
 **Beinhaltet:**
 
 ![image](https://github.com/socGPT/msft-sentinel-pilot/assets/73879930/7b8e11bd-3fd9-4c32-a3b7-eb193d1877f1)
