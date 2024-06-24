@@ -41,8 +41,8 @@ mindmap
         Je nach Umgebung relevante <br />Widgets einblenden
         Aktivierung "Enrichment Widget"
           Erfordert API-Keys <br />Empfehlenswert!
-      Workspace Manager
-        Repo Status okay?
+    Workspace Manager
+      Repo Status okay?
 ```
 
 ---
