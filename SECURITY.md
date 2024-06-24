@@ -16,7 +16,7 @@ We're a [DevOps/SRE Professional Services](https://ctopilot.de) & we ❤️  [Op
 - [x] We only allow APPROVED domains to send/receive alerts
 - [x] ANY secrets are stored in an encrypted way & using GitHub [security best-practices](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions) (GitHub Secrets, AWS KMS or Azure KeyVault)
 - [x] We DO NOT ALLOW using pipelines (GitHub Actions/Workflows) with ANY clear-text, sensitive variable references
-- [x] Third [party application](https://github.com/organizations/cloudeteer/settings/oauth_application_policy) access is going through org admin approval process
+- [x] Third party application access is going through org admin approval process
 - [x] GitHub Apps are also following strict approval process
 - [x] Infrastructure-as-Code templates are approved through a strict QA-process 
 - [x] Container images (like Docker) are scanned through Trivy, Clair, OPA or another 3rd-party scanner
@@ -35,5 +35,6 @@ We're a [DevOps/SRE Professional Services](https://ctopilot.de) & we ❤️  [Op
 
 > [!IMPORTANT]  
 > SECURITY-MATTERS FOR THE WHOLE COMMUNITY - \
-> IF YOU FIND ANY SECURITY ISSUES, PLEASE OPEN AN ISSUE ON OUR PUBLIC REPO'S OR DROP AS A PRIVATE NOTE/EMAIL disclosure @ ctopilot.de
+> IF YOU FIND ANY SECURITY ISSUES, PLEASE OPEN AN ISSUE ON OUR PUBLIC REPO'S OR DROP AS A PRIVATE NOTE/EMAIL \
+> disclosure @ ctopilot.de
 
