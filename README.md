@@ -5,4 +5,4 @@ Microsoft Sentinel Best Practices, including architecture blueprints, like deplo
 > KEIN ANSPRUCH AUF VOLLSTÄNDIGKEIT! \
 > Think, contribute, copy & innovate!
 
-©️ 2024, zerohat Consutling
+©️ 2024, zerohat Consulting - [https://ctopilot.de](https://ctopilot.de)
